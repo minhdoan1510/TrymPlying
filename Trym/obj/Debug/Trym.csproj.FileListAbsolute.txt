@@ -1,0 +1,10 @@
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.csprojAssemblyReference.cache
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.Form1.resources
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.Properties.Resources.resources
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.csproj.GenerateResource.cache
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\Trym\Trym\bin\Debug\Trym.exe.config
+C:\Users\Minh\source\repos\Trym\Trym\bin\Debug\Trym.exe
+C:\Users\Minh\source\repos\Trym\Trym\bin\Debug\Trym.pdb
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.exe
+C:\Users\Minh\source\repos\Trym\Trym\obj\Debug\Trym.pdb
